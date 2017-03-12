@@ -83,6 +83,7 @@ body {
 	width: 100%;
 	height: auto;
 	position: relative;
+	text-align: center;
 }
 #header img {
 	width: 100%;
@@ -90,10 +91,10 @@ body {
 }
 
 #header h1 {
+	text-transform: uppercase;
 	color: rgba(232, 228, 228, 0.64);
 	font-size: 58px;
 	font-weight: 800;
-	text-align: center;
 	position: absolute;
 	top: 50%;
 	left: 0;
