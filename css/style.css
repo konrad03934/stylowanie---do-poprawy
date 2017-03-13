@@ -78,7 +78,7 @@ body {
 	transition: 0.3s all ease-out;
 }
 
-#menu ul li a, header, footer {
+a, header, footer {
 	color: #ffffff;
 }
 
